@@ -1,6 +1,6 @@
 # nikola_cinema
 Same idea as [FashionX website](https://njevric.github.io/fashionx/) - sorting, filter, localStorage, but built few months later with more knowledge.<br/>
-I tried writing ES6 convenction as much as possible
+I tried writing ES6 convention as much as possible
 <br/>
 <br/>
 Website is an example of some movie theater where client can see cinema repertoire and choose which movie wants to watch, time of movie projection and for how many people client wants to make a reservation.
