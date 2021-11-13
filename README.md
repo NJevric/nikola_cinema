@@ -6,4 +6,4 @@ I tried writing ES6 convention as much as possible
 Website is an example of some movie theater where client can see cinema repertoire and choose which movie wants to watch, time of movie projection and for how many people client wants to make a reservation.
 <br/>
 ## Link to website
-https://njevric.github.io/nikola_cinema/
+https://njevric.github.io/nikola_cinema/index.html
